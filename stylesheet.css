@@ -1,0 +1,8 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(94, 94, 94);
+    background-image: url('index/main.jpg');
+    background-repeat: round;
+    background-attachment: fixed;
+  }
